@@ -1,5 +1,5 @@
 package careercup.clothstore;
 
-public class Womens extends ClothDepartment {
+public class WomensDepartment extends ClothDepartment {
 
 }
